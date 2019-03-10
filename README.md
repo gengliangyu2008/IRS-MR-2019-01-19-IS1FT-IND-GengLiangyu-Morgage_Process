@@ -7,7 +7,7 @@
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 This project is about mortgage process automation, which is build from REDHAT JBPM tools.
-For the details, please refer to project_description doc under ProjectReport folder, and project_verification_steps doc under UserGuide folder.
+For the details, please refer to project_description doc under ProjectReport folder.
 
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -29,5 +29,6 @@ For the details, please refer to project_description doc under ProjectReport fol
 
 3. Click the project to view.
 
+4. For details, please refer to project_verification_steps doc under UserGuide folder
 ---
 
