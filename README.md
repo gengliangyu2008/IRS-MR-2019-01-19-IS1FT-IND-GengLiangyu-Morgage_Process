@@ -21,7 +21,7 @@ For the details, please refer to project_description doc under ProjectReport fol
 ---
 ## SECTION 4 : USER GUIDE
 
-### [ 1 ] To run the system in windows or iss-vm
+### To run the system in windows or iss-vm
 
 1. unzip source_code.zip under SystemCode folder.
 
@@ -29,6 +29,6 @@ For the details, please refer to project_description doc under ProjectReport fol
 
 3. Click the project to view.
 
-4. For details, please refer to project_verification_steps doc under UserGuide folder
+### For details, project_verification_steps doc under UserGuide folder
 ---
 
